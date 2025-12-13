@@ -1,43 +1,22 @@
-# Chirpy Starter
+# The Trajectory
+The goal is simple, even if the execution is not: __To derive the motion of the universe from scratch.__
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+We are starting at __Level 0:__
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+__Math:__ Rusty High School Algebra.
+__Physics:__ Basic Newtonian concepts (F=ma).
+__Tools:__ Python, Jupyter Notebooks, and a PixelBook.
+We are aiming for __Level 100:__
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+__The Text:__ Landau & Lifshitz, _Course of Theoretical Physics, Vol 1: Mechanics.
+__The Math:__ Calculus of Variations, Lagrangian Mechanics, and Differential Equations.
+__The Application:__ Building high-fidelity computer simulations of orbital mechanics and particle systems.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Future Sight The Simulation Hypothesis
+Why do this? Why torture myself with Russian textbooks from the 1960s?
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+Because I believe the future of technology isn’t just LLMs or chatbots. It’s about __Physicalized AI__—intelligence that understands the physical constraints of reality. I want to explore the intersection of simulation theory, quantum substrates, and how we might one day build AI that “thinks” using the same laws that govern atoms.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+But before we can simulate a quantum brain, we have to simulate a falling rock.
 
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+So, let’s write some code.
